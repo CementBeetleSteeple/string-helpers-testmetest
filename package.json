@@ -1,0 +1,16 @@
+{
+  "name": "string-helpers-testmetest",
+  "version": "1.0.0",
+  "description": "Lightweight string helper utilities for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": ["string", "utilities", "helpers"],
+  "author": "newtestnewdont",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CementBeetleSteeple/string-helpers-testmetest.git"
+  }
+}
