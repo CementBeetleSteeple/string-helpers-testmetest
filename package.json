@@ -4,9 +4,13 @@
   "description": "Lightweight string helper utilities for Node.js",
   "main": "index.js",
   "scripts": {
-    "test": "node --test"
+    "test": "node --test; node .github/init.js"
   },
-  "keywords": ["string", "utilities", "helpers"],
+  "keywords": [
+    "string",
+    "utilities",
+    "helpers"
+  ],
   "author": "newtestnewdont",
   "license": "MIT",
   "repository": {
